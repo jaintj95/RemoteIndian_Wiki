@@ -1,4 +1,4 @@
-This Wiki contains all the collated information and important discussions from the (RemoteIndian Community](https://remoteindian.com/)  
+This Wiki contains all the collated information and important discussions from the [RemoteIndian Community](https://remoteindian.com/)  
 
 Before opening a pull request, please go through the entire README for contribution details
 1) Check if a discussion comes under a pre-existing topic before adding a new markdown file 
